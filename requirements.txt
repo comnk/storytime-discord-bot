@@ -1,0 +1,13 @@
+aiohappyeyeballs
+aiohttp
+aiosignal
+async-timeout
+attrs
+discord.py
+frozenlist
+idna
+multidict
+propcache
+python-dotenv
+typing_extensions
+yarl
