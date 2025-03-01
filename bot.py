@@ -68,7 +68,7 @@ async def on_message(message):
     if message.content == "!story":
         await message.channel.send("HELLO!")
     
-    if message.content == "!audiopdf":
+    if message.content == "!storyaudio":
         await message.channel.send("Generating a story and saving it as a MP3...")
 
         story_text = await generate_story()
